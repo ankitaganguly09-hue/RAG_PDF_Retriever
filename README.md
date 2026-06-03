@@ -307,12 +307,6 @@ Large PDFs may take longer due to:
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
 ## 👨‍💻 Author
 
 Built using LangChain, ChromaDB, Hugging Face, Mistral AI, and Streamlit to demonstrate Retrieval-Augmented Generation (RAG) workflows for PDF question answering.
