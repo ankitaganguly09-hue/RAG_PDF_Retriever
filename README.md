@@ -73,9 +73,9 @@ Before running the application, ensure you have:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/rag-pdf-retriever.git
+git clone https://github.com/ankitaganguly09-hue/RAG_PDF_Retriever.git
 
-cd rag-pdf-retriever
+cd RAG_PDF_Retriever
 ```
 
 ### 2. Create a Virtual Environment
